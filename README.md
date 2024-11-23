@@ -1,3 +1,7 @@
+# As an avid LeBron fan I wanted the ability to reference his career accolades 
+# I wanted to be able to access his stats easily 
+# It solves the problem of having to search for individual stats and have the stats readily available in one space
+# I learned the process of patience as this project required a lot of revision and fixing errors
 
 # LeBron James Career Stats
 
